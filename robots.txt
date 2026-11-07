@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://il0q.github.io/-/sitemap.xml
